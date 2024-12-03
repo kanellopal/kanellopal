@@ -9,7 +9,7 @@ and how it influences syntrophic or competitive interactions with other members 
 - 💞️ I’m looking to collaborate on novel approaches for advancing our understanding and potential applications on aspects of the nitrogen cycle
 - 📫 You can reach me on Twitter/X @kanellopal and on email at kanellopal@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am a big PAOK FC fan
+- ⚽ Fun fact: I am a big PAOK FC and Liverpool FC fan
 
 <!---
 kanellopal/kanellopal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
