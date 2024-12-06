@@ -11,7 +11,10 @@ and how it influences syntrophic or competitive interactions with other members 
 - 😄 Pronouns: He/Him
 - ⚽ Fun fact: I am a big PAOK FC and Liverpool FC fan
 
+  ![UNI_DEPT_LAB logo group](https://github.com/user-attachments/assets/4e5fbb2d-b737-4f74-9437-b8222897d1c0)
+
 <!---
-kanellopal/kanellopal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+kanellopal/kanellopal is a ✨ special ✨ repository because its `README.md` (this file) appears 
+on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
