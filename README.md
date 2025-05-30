@@ -10,8 +10,8 @@ and how it influences syntrophic or competitive interactions with other members 
 - 📫 You can reach me on Twitter/X @kanellopal and on email at kanellopal@gmail.com
 - 😄 Pronouns: He/Him
 - ⚽ Fun fact: I am a big PAOK FC and Liverpool FC fan
-
-![UNI_DEPT_LAB logo group](https://github.com/user-attachments/assets/7479a91d-7aa5-43b5-98a5-c67b7b11c4d5)
+  
+![image](https://th.bing.com/th/id/OIP.-FeujFX5A_z8zLGsrwY34QAAAA?rs=1&pid=ImgDetMain)
 
 <!---
 kanellopal/kanellopal is a ✨ special ✨ repository because its `README.md` (this file) appears 
