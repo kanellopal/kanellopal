@@ -5,7 +5,6 @@ Furthermore, I am interested in investigating processes influencing nitrous oxid
 sink of nitrous oxide.
 Finally, I possess a keen interest in dealing with in vitro, in soil and in silico approaches to study aspects of the metabolism of microorganisms vital to nitrogen cycling, in particular ammonia oxidisers, 
 and how it influences syntrophic or competitive interactions with other members in laboratory co-cultures and in natural microbial communities.  
-- 🌱 I’m currently learning data analysis and visualisation in R, including handling large data volumes, applying descriptive statistics, and generating heatmaps and multivariate analysis plots
 - 💞️ I’m looking to collaborate on novel approaches for advancing our understanding and potential applications on aspects of the nitrogen cycle
 - 📫 You can reach me on Twitter/X @kanellopal and on email at kanellopal@gmail.com
 - 😄 Pronouns: He/Him
