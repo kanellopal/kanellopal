@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @kanellopal
-- 👀 I’m interested in the ecology, functioning and agricultural/biotechnological applications on nitrogen cycling. This includes the discovery and robust assessment of novel Biological Nitrification Inhibitors,
+- 👀 I’m interested in the ecology, functioning and agricultural/biotechnological applications on nitrogen cycling. This includes the detection and robust assessment of novel Biological Nitrification Inhibitors,
 enabling us to mitigate Nitrogen Use Efficiency loss, nitrate leaching and contamination, as well as nitrous oxide emmisions. I am interested also in the investigation of their mode of action on nitrifiers and putative off – target effects on important taxa for soil ecosystem functioning. 
 Furthermore, I am interested in investigating processes influencing nitrous oxide fluxes (denitrification, nitrate ammonification, nitrifier denitrification, etc.) which determine whether a soil is a source or
-sink of nitrous oxide.
+sink of nitrous oxide. 
+Now I am investigating how organic nitrogen transformations affect inorganic nitrogen flows and greenhouse gas emissions. For this, I currently integrate in vitro and in-situ research with bioinformatic work to study how microbial communities involved in organic nitrogen transformations are shaped and influenced by their environment and how their composition and activity are linked to inorganic nitrogen processes and emissions of nitrous oxide.
 Finally, I possess a keen interest in dealing with in vitro, in soil and in silico approaches to study aspects of the metabolism of microorganisms vital to nitrogen cycling, in particular ammonia oxidisers, 
 and how it influences syntrophic or competitive interactions with other members in laboratory co-cultures and in natural microbial communities.  
 - 💞️ I’m looking to collaborate on novel approaches for advancing our understanding and potential applications on aspects of the nitrogen cycle
